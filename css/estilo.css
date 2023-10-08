@@ -1,0 +1,68 @@
+.lato {
+    font-family: 'Lato', sans-serif;
+    color: #A6759E;
+    font-size: large;
+}
+
+.latoMain { 
+    font-family: 'Lato', sans-serif;
+    color: #A6759E;
+    font-size: x-large;
+}
+
+.latoKitchen { 
+  font-family: 'Lato', sans-serif;
+  color: #A6759E;
+  font-size: 4vw;
+  text-align: center;
+
+}
+
+h2{
+  font-family: 'Lato', sans-serif;
+  color: #A6759E;
+  font-size: large;
+  text-align: center;
+}
+.formulario {
+    display: flex;
+    background-color: black;
+    opacity: 0.7;
+    filter: alpha(opacity=50);
+    color: #A6759E;
+    font-family: 'Lato', sans-serif bold;
+    font-size: 1rem;
+ }
+
+.formBlenders{
+    background-color: black;
+    overflow: hidden;
+    opacity: 0.7;
+    filter: alpha(opacity=50);
+    color: #A6759E;
+    font-family: 'Lato', sans-serif bold;
+    font-size: 2rem;
+ }
+ footer {
+    background-color: #A6759E;
+    height: auto;
+    width: 100vw;
+    padding: 10px;
+    max-width: 100%;
+    overflow: hidden;
+    text-align: center;
+    opacity: 0.5;
+  }
+
+.contenedor{
+  display: flex row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+
+.latoFooter { 
+        font-family: 'Lato', sans-serif;
+        color: black;
+        font-size: medium;
+    }
